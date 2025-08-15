@@ -8,6 +8,14 @@ I am currently enrolled in Asah led by Dicoding Indonesia as a cohort of the mac
 
 I've learnt C#, Java, and Python programming language, and a little bit of JavaScript and PHP. I am looking forward to expand my knowledge on other programming languages and computer in general. 
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ShiftorTheOrca">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShiftorTheOrca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShiftorTheOrca&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **ShiftorTheOrca/ShiftorTheOrca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
