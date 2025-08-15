@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello everyone! 👋
+
+My name is Leonardo Sanjaya. 
+
+I am a student in Universitas of Surabaya, and I am learning informatics engineering focusing in data science and artificial intelligence. 
+
+I am currently enrolled in Asah led by Dicoding Indonesia as a cohort of the machine learning division. 
 
 <!--
 **ShiftorTheOrca/ShiftorTheOrca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
