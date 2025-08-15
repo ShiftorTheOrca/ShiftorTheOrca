@@ -6,6 +6,8 @@ I am a student in Universitas of Surabaya, and I am learning informatics enginee
 
 I am currently enrolled in Asah led by Dicoding Indonesia as a cohort of the machine learning division. 
 
+I've learnt C#, Java, and Python programming language, and a little bit of JavaScript and PHP. I am looking forward to expand my knowledge on other programming languages and computer in general. 
+
 <!--
 **ShiftorTheOrca/ShiftorTheOrca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
