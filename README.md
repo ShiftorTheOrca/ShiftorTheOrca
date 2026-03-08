@@ -1,12 +1,12 @@
-## Hello everyone! 👋
+## Hello everyone!
 
 My name is Leonardo Sanjaya. 
 
 I am a student in Universitas of Surabaya, and I am learning informatics engineering focusing in data science and artificial intelligence. 
 
-I am currently enrolled in Asah led by Dicoding Indonesia as a cohort of the machine learning division. 
+I am an Asah led by Dicoding cohort distinction graduate of the machine learning division. 
 
-I've learnt C#, Java, and Python programming language, and a little bit of JavaScript and PHP. I am looking forward to expand my knowledge on other programming languages and computer in general. 
+I've learnt C#, Java, PHP, and Python programming language, and a little bit of JavaScript. I am looking forward to expand my knowledge on other programming languages and computer in general. 
 
 ### Github Statistic
 <p align="left">
