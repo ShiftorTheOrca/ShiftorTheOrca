@@ -1,10 +1,10 @@
-## Hello everyone!
+## Hi! Welcome to my GitHub page. 
 
-My name is Leonardo Sanjaya. 
+My name is Leonardo Sanjaya; but I'm known online as Shiftor. 
 
-I am a student in Universitas of Surabaya, and I am learning informatics engineering focusing in data science and artificial intelligence. 
+I am a student in University of Surabaya (Ubaya), and I am learning informatics engineering focusing in data science and artificial intelligence. 
 
-I am an Asah led by Dicoding cohort distinction graduate of the machine learning division. 
+I am a distinction graduate machine learning cohort of Asah led by Dicoding. 
 
 I've learnt C#, Java, PHP, and Python programming language, and a little bit of JavaScript. I am looking forward to expand my knowledge on other programming languages and computer in general. 
 
@@ -16,10 +16,7 @@ I've learnt C#, Java, PHP, and Python programming language, and a little bit of 
 </a>
 </p>
 
-<!--
-**ShiftorTheOrca/ShiftorTheOrca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
